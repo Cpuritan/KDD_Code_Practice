@@ -16,3 +16,5 @@
 [数据立方体技术](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/数据立方体技术.html)
 
 [挖掘频繁模式](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/挖掘频繁模式.html)
+
+[分类：基本概念](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/分类：基本概念.html)
