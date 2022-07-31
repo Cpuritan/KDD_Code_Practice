@@ -1,9 +1,11 @@
 # KDD_Code_Practice
+by Cpuritan
 
-### Untitled中即时更新部分python程序练习
-### MINDSET文件夹中更新 《数据挖掘概念与技术 韩家炜》各章节的思维导图
+### 其中Untitled中即时更新部分python程序练习，MINDSET文件夹中更新 《数据挖掘概念与技术 韩家炜》各章节的思维导图
 
-#### 可支持在个人Page上查看思维导图（持续更新中~），查看点击下述链接 ^^<
+#### 可支持在个人Page上查看思维导图 https://cpuritan.github.io/KDD_Code_Practice （持续更新中~）
+
+或直接查看点击下述链接 ^^<
 
 [数据挖掘 引论](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/数据挖掘%20引论.html)
 
