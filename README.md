@@ -21,4 +21,6 @@ by Cpuritan
 
 [分类：基本概念](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/分类：基本概念.html)
 
+[分类：高级方法](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/分类：高级方法.html)
+
 [聚类分析：基本概念和方法](https://cpuritan.github.io/KDD_Code_Practice/MINDSET/聚类分析：基本概念和方法.html)
